@@ -329,13 +329,13 @@ For issues, check the **Troubleshooting** section above or review the detailed b
 
 ### 👤 Group Members
 
-Armenion, Carl Michael S.
-Menandro, Aguilar
-Estopase, Kzel
-Co, Anne Dominique
-Jallores, Jose Mauricio
-Valeroso, Angelica
-Ibanez, Faith Anne
-Pajaroja, Michael Lyn
-Bacay, Angelo
-Ga, Jerwin
+-- Armenion, Carl Michael S.
+-- Menandro, Aguilar
+-- Estopase, Kzel
+-- Co, Anne Dominique
+-- Jallores, Jose Mauricio
+-- Valeroso, Angelica
+-- Ibanez, Faith Anne
+-- Pajaroja, Michael Lyn
+-- Bacay, Angelo
+-- Ga, Jerwin
