@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUVy+4Sx6VRbUTwI+OI5rNOczoCCKAFIPOUgsHUQiUDKuAw777Bh0BulUvs5fJ2SxYpZfs381y1lfXbV5udAdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\barangay-attendance-system\\zk-bridge\\zkfp-helper-src\\zkfp-helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.36\\microsoft.netcore.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
