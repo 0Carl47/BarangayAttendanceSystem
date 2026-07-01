@@ -52,7 +52,7 @@ The system runs entirely on your local Windows PC — no internet connection is 
 ### 📊 Attendance Tracking & Reports
 - Daily attendance log with timestamps (time-in / time-out)
 - View attendance history per employee
-- **Export to Excel (.xlsx)** — for payroll or government reporting
+- **Export to Excel (.xlsx)**
 - **Export to PDF** — for printed records submission
 
 ### 🔐 Admin Dashboard
