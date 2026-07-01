@@ -324,3 +324,18 @@ If you don't have the ZKTeco R20i device, the system still works:
 ## 📞 Support
 
 For issues, check the **Troubleshooting** section above or review the detailed bridge documentation in `zk-bridge/README.md`.
+
+---
+
+### 👤 Group Members
+
+Armenion, Carl Michael S.
+Menandro, Aguilar
+Estopase, Kzel
+Co, Anne Dominique
+Jallores, Jose Mauricio
+Valeroso, Angelica
+Ibanez, Faith Anne
+Pajaroja, Michael Lyn
+Bacay, Angelo
+Ga, Jerwin
