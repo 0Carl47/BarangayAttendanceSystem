@@ -327,7 +327,7 @@ For issues, check the **Troubleshooting** section above or review the detailed b
 
 ---
 
-### 👤 Group Members
+### 👥 Group Members:
 
 - Armenion, Carl Michael S.
 - Menandro, Aguilar
