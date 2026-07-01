@@ -43,12 +43,11 @@ The system runs entirely on your local Windows PC — no internet connection is 
 - **Live fingerprint preview** — see your fingerprint image on screen during scanning
 - **Biometric login** — place finger on ZKTeco R20i to log in instantly
 - Native ZKTeco SDK matching — genuine match scores between 40–100
-- Automatic attendance timestamp recorded on every fingerprint login
+- Automatic login on every fingerprint success
 
 ### 👤 Account & Employee Management
 - Admin can **create, view, edit, and delete** employee accounts
 - Each employee has: name, position, department, contact info, and fingerprint templates
-- Password-based login available as fallback if no fingerprint hardware
 
 ### 📊 Attendance Tracking & Reports
 - Daily attendance log with timestamps (time-in / time-out)
@@ -214,17 +213,6 @@ npm run dev
 
 ---
 
-## 🔑 First Login (Default Admin Account)
-
-| Field | Value |
-|-------|-------|
-| **Username** | `admin` |
-| **Password** | `admin123` |
-
-> ⚠️ **Change this password after first login** for security.
-
----
-
 ## 🖥️ How to Use the System
 
 ### Logging In (Password)
@@ -242,7 +230,7 @@ npm run dev
 5. Click the **🖐️ ZKTeco R20i Fingerprint** button
 6. **Place your finger** on the sensor
 7. If recognized → you are logged in automatically
-8. If not recognized → try again or use password login
+8. If not recognized → try again
 
 ### Registering a New Employee/Admin
 2. Click **"Sign Up"**
@@ -328,7 +316,6 @@ barangay-attendance-system/
 ## 🔧 Without ZKTeco Hardware
 
 If you don't have the ZKTeco R20i device, the system still works:
-- Use **Password login** instead of fingerprint
 - The fingerprint bridge can still run (it will show `deviceReady: false`) — this is fine
 - All attendance, reporting, and admin features work normally
 
