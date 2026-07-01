@@ -244,12 +244,13 @@ npm run dev
 7. If recognized → you are logged in automatically
 8. If not recognized → try again or use password login
 
-### Registering a New Employee (Admin Only)
-1. Log in as **admin**
-2. Click **"Sign Up"** or go to the **Admin → Users** section
+### Registering a New Employee/Admin
+2. Click **"Sign Up"**
 3. Fill in the employee's details:
    - Full Name
-   - Position / Department
+   - Position
+   - Age
+   - Sex
    - Contact Number
    - Username and Password
 4. For **fingerprint enrollment**:
