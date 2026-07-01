@@ -84,7 +84,7 @@ Before installing, make sure your computer has:
 
 ---
 
-## 📦 Installation Guide (First Time Only)
+## 📦 Installation Guide
 
 Follow these steps **once** to set up the system.
 
