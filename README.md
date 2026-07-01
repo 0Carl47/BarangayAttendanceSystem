@@ -10,7 +10,7 @@ The **Barangay Attendance System** is a web-based application that replaces manu
 
 - Log in using their **fingerprint** via the ZKTeco R20i USB scanner
 - Record and track **daily attendance** automatically upon login
-- Manage **employee/resident records** with full profile information
+- Manage **employee records** with full profile information
 - Export **attendance reports** to Excel or PDF
 - Administer accounts through a dedicated **Admin dashboard**
 
