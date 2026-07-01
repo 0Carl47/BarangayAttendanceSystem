@@ -215,10 +215,10 @@ npm run dev
 
 ## 🖥️ How to Use the System
 
-### Logging In (Password)
+### Logging In
 1. Open **http://localhost:3000** in your browser
-2. Click the **Password** tab (if not already selected)
-3. Enter your **username** and **password**
+2. **place your finger** on sensor auto login
+3. automatic log out if the user inactive for 15seconds
 4. Click **Login**
 5. You will be redirected to your dashboard
 
@@ -240,7 +240,6 @@ npm run dev
    - Age
    - Sex
    - Contact Number
-   - Username and Password
 4. For **fingerprint enrollment**:
    - Click **"Enroll Fingerprint"**
    - Place the finger → **Scan 1 of 3** — lift finger
