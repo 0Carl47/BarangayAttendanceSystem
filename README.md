@@ -131,12 +131,15 @@ Follow these steps **once** to set up the system.
 **Option A — Double-click (easiest):**
 1. Open the `barangay-attendance-system` folder
 2. Right-click **`INSTALL.bat`** → click **"Run as Administrator"**
-3. A black terminal window will open and automatically:
+3. Right-click **`BUILD.bat`** Found at barangay-attendance-system\zk-bridge\zkfp-helper-src→ click **"Run as Administrator"**
+4. Right-click **`START-BRIDGE.bat`** → click **"Run as Administrator"**
+5. Right-click **`START-WEBSITE.bat`** → click **"Run as Administrator"**
+6. A black terminal window will open and automatically:
    - Install all website packages (`npm install`)
    - Create the SQLite database (`prisma db push`)
    - Create the default admin account (`node prisma/seed.js`)
    - Install fingerprint bridge packages
-4. When done, you'll see **"INSTALL COMPLETE!"** — press any key to close
+7. When done, you'll see **"INSTALL COMPLETE!"** — press any key to close
 
 **Option B — Manual (PowerShell):**
 ```powershell
